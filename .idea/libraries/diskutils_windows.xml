@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="diskutils_windows">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/windows/diskutils_windows.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
