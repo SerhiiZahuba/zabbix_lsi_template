@@ -127,7 +127,7 @@ value_type: TEXT
 params: 'cd /opt/lsi/storcli && ./storcli /call show all j'
 authtype: PUBLIC_KEY
 username: root
-password: zabbixce
+password: password_for_key
 publickey: id_rsa.pub
 privatekey: id_rsa
 preprocessing:
@@ -151,7 +151,7 @@ value_type: TEXT
 params: 'cd /opt/lsi/storcli && ./storcli /call/eall/sall show all j'
 authtype: PUBLIC_KEY
 username: root
-password: zabbixce
+password: password_for_key
 publickey: id_rsa.pub
 privatekey: id_rsa
 preprocessing:

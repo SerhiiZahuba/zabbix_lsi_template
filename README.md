@@ -2,9 +2,15 @@
 
 forked from mykolq/zabbix_lsi_template
 
+**Main changes:**
+1. Raid monitoring in ESXI
+2. Connecting to ESXI via a dongle
+3. Getting metrics via ssh.
+
+
 This template is for discovering and monitoring LSI based 
 (Avago, Broadcom, Perc, Lenovo) storage controllers by
-using json outputs of storcli tool. 
+using json outputs of storcli tool 
 Now it works only with zabbix => 6.2
 
 **Main features**
